@@ -1,0 +1,38 @@
+.arepa-pic {
+    height: 200px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.arepa-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+figcaption {
+    text-align: center;
+    font-size: larger;
+}
+
+.arepa-description {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.meal-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.home {
+    display: block;
+    text-align: center;
+}
